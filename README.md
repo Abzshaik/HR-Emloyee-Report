@@ -24,5 +24,3 @@
 ##### Note: Employees of age 18+ has been considered.
 
 
-![Screenshot 2023-07-01 154948](https://github.com/Abzshaik/Projects/assets/107684504/32f6ef1b-3e62-4d66-9582-c0be037c5d86)
-
